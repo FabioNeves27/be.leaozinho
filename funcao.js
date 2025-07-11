@@ -12,7 +12,7 @@ moveButton.addEventListener("click", function () {
 
 correctlyButton.addEventListener("click", function () {
   // Exibe o alerta
-  alert("Então só vem Bê");
+  alert("Eu Te Amo MUITOOOOO");
 
   // Remove qualquer imagem existente no contêiner
   imageContainer.innerHTML = '';
